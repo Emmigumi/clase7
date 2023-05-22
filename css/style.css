@@ -1,0 +1,17 @@
+/* selector{
+    propiedad: valor;
+} */
+body{
+    background-color: #E6E6E6;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.destacado{
+    font-size: 70px;
+    color:white;
+}
+
+#primera{
+    background-color: blueviolet;
+}
