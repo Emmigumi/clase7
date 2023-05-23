@@ -3,15 +3,24 @@
 } */
 body{
     background-color: #E6E6E6;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: center;
+    font-family:'Times New Roman';  
 }
 
-.destacado{
-    font-size: 70px;
-    color:white;
+main{
+    background: white;
 }
-
-#primera{
-    background-color: blueviolet;
+h2{
+    background-color: #C4C4C4;
+}
+h1,h2{
+    text-transform: uppercase;
+    color: #005677;
+    line-height: 84.69%;
+}
+a{
+    font-weight: bold;
+}
+.cursiva{
+   
+  font-style: italic;
 }
